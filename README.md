@@ -18,7 +18,7 @@ El propósito principal de este repositorio es proporcionar un recurso simple pa
 
 ## Contenido actual:
 
-Al dar click en el icono al comienzo del Notebook `Open in Colab` automáticamente lo redirige a Google Colaboratoy.
+Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ubicado al inicio del Notebook, se abrirá el Notebook en Google Colaboratory.
 
 1. [Python 01a](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_01a_TiposDeDatos.ipynb): Tipos de datos en Python
 2. [Python 01b](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_01b_OperadoresMatematicos.ipynb): Operadores matemático/aritméticos
@@ -36,4 +36,4 @@ Al dar click en el icono al comienzo del Notebook `Open in Colab` automáticamen
 
 ¡Las contribuciones y sugerencias son bienvenidas! Si encuentras errores o tienes ideas para mejorar los Notebooks, no dudes en informarlo.
 
-¡Feliz aprendizaje de Python 3! 🐍✨
+¡Feliz aprendizaje de Python 3! :computer::snake::sparkles:
