@@ -1,6 +1,6 @@
 # Repositorio de Notebooks de Python 3 en Google Colab
 
-Este repositorio contiene una colección de Notebooks desarrollados en Google Colaboratory. El propósito de estos Notebooks es ser una ayuda en el proceso de aprendizaje del lenguaje de programación de Python 3. Dada la creciente importancia e interés en el campo de la inteligencia artificial (IA), no subestimo el valor de las IAs como herramientas para el desarrollo de código. Considero que son recursos muy útiles, especialmente en el contexto de programación, una IA me dio apoyo en la estructuración de este pequeño repositorio.
+Este repositorio contiene una colección de Notebooks desarrollados en [Google Colaboratory](https://colab.research.google.com). El propósito de estos Notebooks es ser una ayuda en el proceso de aprendizaje del lenguaje de programación de Python 3. Dada la creciente importancia e interés en el campo de la inteligencia artificial (IA), no subestimo el valor de las IAs como herramientas para el desarrollo de código. Considero que son recursos muy útiles, especialmente en el contexto de programación, una IA me dio apoyo en la estructuración de este pequeño repositorio.
 
 Considero que las personas que están iniciando en la programación no deben depender exclusivamente de las IAs. Es recomendable comprender los conceptos básicos del lenguaje de programación de interés, en este caso Python 3. De este modo, poder evaluar y tener claridad sobre la idoneidad de las respuestas proporcionadas por las IAs.
 
@@ -20,17 +20,17 @@ El propósito principal de este repositorio es proporcionar un recurso simple pa
 
 Al dar click en el icono al comienzo del Notebook `Open in Colab` automáticamente lo redirige a Google Colaboratoy.
 
-1. Python 01a: Tipos de datos en Python
-2. Python 01b: Operadores matemático/aritméticos
-3. Python 01c: Operadores lógicos
-4. Python 01d: Que son las listas, tuplas y diccionarios
-5. Python 01e: El uso de bucles
-6. Python 01f: Condicionales If, Elif, Else
-7. Python 01g: Crear funciones básicas
-8. Python 02a: Conceptos básicos en NumPy
-9. Python 02b: Algunas de las funciones de interés de NumPy
-10. Python 03a: Conceptos básicos de la creación de graficas con Matplotlib
-11. Python 04a: Como crear un DataFrames en Pandas
+1. [Python 01a](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_01a_TiposDeDatos.ipynb): Tipos de datos en Python
+2. [Python 01b](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_01b_OperadoresMatematicos.ipynb): Operadores matemático/aritméticos
+3. [Python 01c](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_01c_OperadoresLogicos.ipynb): Operadores lógicos
+4. [Python 01d](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_01d_ListasTuplasDiccionarios.ipynb): Que son las listas, tuplas y diccionarios
+5. [Python 01e](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_01e_Bucles.ipynb): El uso de bucles
+6. [Python 01f](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_01f_IfElifElse.ipynb): Condicionales If, Elif, Else
+7. [Python 01g](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_01g_Funciones.ipynb): Crear funciones básicas
+8. [Python 02a](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_02a_NumPy.ipynb): Conceptos básicos en NumPy
+9. [Python 02b](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_02b_NumPy_Funciones.ipynb): Algunas de las funciones de interés de NumPy
+10. [Python 03a](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/e900a687160be906b814fb9e9a28323586055b17/Python_03a_Matplotlib.ipynb): Conceptos básicos de la creación de graficas con Matplotlib
+11. [Python 04a](https://github.com/sergioGarcia91/Introductorio-Python-3/blob/e900a687160be906b814fb9e9a28323586055b17/Python_04a_Pandas.ipynb): Como crear un DataFrames en Pandas
 
 ## Contribuciones
 
