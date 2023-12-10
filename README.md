@@ -18,6 +18,8 @@ El propósito principal de este repositorio es proporcionar un recurso simple pa
 
 ## Contenido actual:
 
+Al dar click en el icono al comienzo del Notebook `Open in Colab` automáticamente lo redirige a Google Colaboratoy.
+
 1. Python 01a: Tipos de datos en Python
 2. Python 01b: Operadores matemático/aritméticos
 3. Python 01c: Operadores lógicos
