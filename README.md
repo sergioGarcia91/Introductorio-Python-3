@@ -14,7 +14,7 @@ El propósito principal de este repositorio es proporcionar un recurso simple pa
 
 - **Estructura:** Los Notebooks están organizados de manera secuencial, iniciando con unja introducción o repaso que poco a poco se van disminuyendo con forme se avanzan en los temas.
 
-- **Código Comentado: ** El código en los Notebooks está comentado de manera detallada en los primeros Notebooks para explicar los conceptos clave y ayudar a los usuarios a comprender cada paso. Con forme se avanzan estos comentarios pueden desaparecer en temas ya vistos.
+- **Código Comentado:** El código en los Notebooks está comentado de manera detallada en los primeros Notebooks para explicar los conceptos clave y ayudar a los usuarios a comprender cada paso. Con forme se avanzan estos comentarios pueden desaparecer en temas ya vistos.
 
 ## Contenido actual:
 
