@@ -2,7 +2,7 @@
 
 Este repositorio contiene una colección de Notebooks desarrollados en [Google Colaboratory](https://colab.research.google.com). El propósito de estos Notebooks es ser una ayuda en el proceso de aprendizaje del lenguaje de programación de Python 3. Dada la creciente importancia e interés en el campo de la inteligencia artificial (IA), no subestimo el valor de las IAs como herramientas para el desarrollo de código. Considero que son recursos muy útiles, especialmente en el contexto de programación, una IA me dio apoyo en la estructuración de este pequeño repositorio.
 
-Considero que las personas que están iniciando en la programación no deben depender exclusivamente de las IAs. Es recomendable comprender los conceptos básicos del lenguaje de programación de interés, en este caso Python 3. De este modo, poder evaluar y tener claridad sobre la idoneidad de las respuestas proporcionadas por las IAs.
+>**Observación.** Las personas que están iniciando en la programación no deben depender exclusivamente de las IAs. Es recomendable comprender los conceptos básicos del lenguaje de programación de interés, en este caso Python 3. De este modo, poder evaluar y tener claridad sobre la idoneidad de las respuestas proporcionadas por las IAs.
 
 ## Objetivo
 
